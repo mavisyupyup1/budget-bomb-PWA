@@ -20,4 +20,7 @@ Budget tracker is a Progressive Web Application (PWA) that allows users to track
 * deployed url: https://blooming-plateau-56019.herokuapp.com/
 
 ## Demo
+![offline](public/gif/budget_tracker.gif)
+
+![installing on mobile](public/gif/budget_mobile.gif)
 

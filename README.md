@@ -13,11 +13,13 @@ Budget tracker is a Progressive Web Application (PWA) that allows users to track
 * Deployed at Heroku
 
 ## Usage
+* deployed url: https://blooming-plateau-56019.herokuapp.com/
+
+## Installation 
 * clone or download the repo
 * MongoDB and Node.js required
 * ```npm install ``` to install on dependencies
-* ```npm start``` to start localhost
-* deployed url: https://blooming-plateau-56019.herokuapp.com/
+* ```npm start``` to start localhost and localhost:3001 to use
 
 ## Demo
 ![offline](public/gif/budget_tracker.gif)

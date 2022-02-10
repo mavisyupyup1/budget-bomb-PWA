@@ -6,7 +6,7 @@ Budget tracker is a Progressive Web Application (PWA) that allows users to track
 * Node.js
 * Express.js
 * JavaScript
-* MongoDB
+* MongoDB for Database
 * MongoDB Atlas 
 * IndexDB for offline functionality
 * Service workers for PWA 
@@ -26,3 +26,10 @@ Budget tracker is a Progressive Web Application (PWA) that allows users to track
 
 ![installing on mobile](public/gif/budget_mobile.gif)
 
+## Acknowledgement
+[Starter Code](https://github.com/coding-boot-camp/symmetrical-bassoon)
+
+## License
+MIT License
+
+Copyright (c) 2022 Grace Liu
